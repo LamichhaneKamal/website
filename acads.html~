@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <meta name="generator" content="HTML Tidy for Linux/x86 (vers 1st March 2004)" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="default.css" />
+    <title>Kamal Lamichhane</title>
+</head>
+
+<body>
+    <div id="master">
+        <div id="header">
+            <h1>
+            Kamal Lamichhane
+            </h1>
+        </div>
+        <ul id="menu">
+            <li><a href="index.html" title="Home">Home</a></li>
+            <li><a href="research.html" title="Interests and Material">Research</a></li>
+            <li><a href="acads.html" title="Acads" class="current">Academic Records</a></li>
+            <li><a href="presentations.html" title="Work presented">Presentations</a></li>
+            <li><a href="service.html" title="Volunteering activities">Experience</a></li>
+        </ul>
+        <div id="content">
+            <div class="sidebar">
+                <h2>Quicklinks</h2>
+                <ul class="links">
+                    <li><a href="index.html" title="Home">Home</a></li>
+                    <li><a href="research.html" title="Interests and Material">Research</a></li>
+                    <li><a href="acads.html" title="Acads">Academic Records</a></li>
+                    <li><a href="presentations.html" title="Work presented">Presentations</a></li>
+                    <li><a href="service.html" title="Volunteering activities">Experience</a></li>
+                    <li><a href="links.html" title="Links that I've found useful">Links</a></li>
+                  
+
+                </ul>
+            </div>
+            <div class="sidebar">
+                <h2>Profile</h2>
+                <ul>
+                    <li><a href="https://uwaterloo.ca/embedded-software-group/people-profiles/kamal-lamichhane" title="Embedded_Software">Kamal's profile</a> in the Real-time Embedded Software Group (RESG) website at the University of Waterloo
+
+                    </li>
+                </ul>
+            </div>
+
+<div class="sidebar">
+                <h2>Link to my sites </h2>
+                <ul>
+                    
+                     <li><a href="https://ca.linkedin.com/in/lamichhanekamal" title="Linkedin">Linkedin</a>
+
+                    </li>
+                    
+                    <li><a href="https://scholar.google.ca/citations?user=9pzNkQUAAAAJ&hl=en" title="GS">Google Scholar</a>
+                        
+                                            </li>
+                    
+                    <li><a href="https://www.researchgate.net/profile/Kamal_Lamichhane2" title="Rg">Research Gate</a>
+                        </li>
+                    
+                    <li><a href="https://www.quora.com/profile/Kamal-Lamichhane" title="Quora">Quora</a>
+
+                    </li>
+                    
+                    <li><a href="https://www.facebook.com/lamichhane.kml1" title="Facebook">Facebook</a>
+
+                    </li>
+                    
+                    <li><a href="https://www.sites.google.com/site/kamalamichhane/" title="Gs">Google Site</a>
+
+                    </li>
+                    
+                                            
+                    
+                    <li><a href="https://plus.google.com/u/0/+KamalLamichhaneECE/posts" title="G">Google+</a>
+                        
+                </li>
+                    
+                    
+                    <li><a href="http://www.slideshare.net/kamal_lc1" title="SS">Slide Share</a>                        
+                </li>
+                    
+                    <li><a href="https://twitter.com/Twitkamall" title="twet">Twitter</a>                        
+                </li>
+                    
+                    
+                    
+                    
+                
+                   
+                </ul>
+                    </div-->
+            </div>
+
+
+            <div class="sidebar">
+                <p>"Life is not measured by the number of breaths we take but by the moments that take our breath away"</p>
+                <p> -- Anonymous</p>
+            </div>
+
+
+            
+
+
+            <div class="item">
+                <h2>Relevant Courses</h2>
+<p>
+I'm TAing operating system in winter 2016.
+<ul>
+Operating System (SE350)
+</ul>
+</p>
+
+                <p>
+
+                    I took following three courses at the University of Waterloo.
+                    <ul>
+                        <li>Algorithm Design & Analysis (ECE-606) - 90% </li>
+                        <li>Design of Experiments (STAT-890) - 80% </li>
+                        <li>Computer Aided Verification (ECE-725) - 88%</li>
+                    </ul>
+                    I took following courses during my undergraduate.
+                    <ul>
+                        <li>Embedded Technologies</li>
+                        <li>Micontroller</li>
+                        <li>Data Structure & Algorithms</li>
+                        <li>Signals & Systems</li>
+                        <li>Application Specific Integrated Circuit Design</li>
+                        <li>Image Processing & Pattern Recognition</li>
+                        <li>Control System</li>
+                        <li>Microprocessor Design</li>
+                        <li> Digital Signal Processors</li>
+                        <li>Information Systems</li>
+                        <li>Satellite Communication</li>
+                        <li> Power Electronics</li>
+
+                    </ul>
+
+            </div>
+
+            <div class="item">
+                <h2>Academic Records</h2>
+                <p>
+
+                    <style>
+                        table,
+                        th,
+                        td {
+                            border: 1px solid black;
+                            border-collapse: collapse;
+                        }
+                        
+                        th,
+                        td {
+                            padding: 5px;
+                        }
+                    </style>
+
+                    <table style="width:100%">
+                        <tr>
+                            <th>Degree</th>
+                            <th>Institution</th>
+                            <th>Graduation Year</th>
+                            <th>GPA/%</th>
+                        </tr>
+
+                        <tr>
+                            <td>MASc(ECE)</td>
+                            <td>University of Waterloo, Canada</td>
+                            <td>2017</td>
+                            <td> 86 % </td>
+                        </tr>
+
+                        <tr>
+                            <td>B.Tech(ECE)</td>
+                            <td>Nitte Meenakshi Institute of Technology, India</td>
+                            <td>2015</td>
+                            <td>9.73/10</td>
+                        </tr>
+                        <tr>
+                            <td>XII</td>
+                            <td>St.Lawrence College, Nepal</td>
+                            <td>2010</td>
+                            <td>83%</td>
+                        </tr>
+                        <tr>
+                            <td>X</td>
+                            <td>Pradyumna Paneru Higher Secondary School</td>
+                            <td>2008</td>
+                            <td>80%</td>
+                        </tr>
+                    </table>
+                </p>
+
+            </div>
+        </div>
+
+            <div id="bottommenu">
+                <a href="index.html" title="Home">Home</a> |
+                <a href="research.html" title="Interests and Material">Research</a> |
+                <a href="acads.html" title="Acads">Academic Records</a> |
+                <a href="presentations.html" title="Work presented">Presentations</a>|
+                <a href="service.html" title="serivice">Experience</a>|
+                <a href="links.html" title="Links that I've found useful">Links</a>
+
+            </div>
+            <p></p>
+            <!-- ##### Footer ##### -->
+
+            <div id="footer">
+
+                <footer>
+                    Copyright © Kamal
+                </footer>
+
+            </div>
+
+
+
+        </div>
+</body>
+
+
+</html>
